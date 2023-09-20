@@ -1,0 +1,4 @@
+PyQt5
+pyqt-custom-titlebar-window
+pyqtdarktheme
+PyAutoGUI
